@@ -27,9 +27,9 @@ I am still early in my journey as an engineer, but I work every day to improve m
 ### 🚀 Goal
 To become a professional application engineer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simpleman-041&show_icons=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=simpleman-041&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simpleman-041&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simpleman-041&layout=compact)
 
 ### 📫 Contact
 - GitHub: simpleman-041
