@@ -1,34 +1,78 @@
-## Hi there 👋
+# こんにちは、Daiです！
 
-I'm Dai, a university student in Japan studying software development.
-I am still early in my journey as an engineer, but I work every day to improve my skills.
+大学で情報システムを学んでいる2年生です。
 
-### 🧰 Tech Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+C#を中心にアプリケーション開発を学習しています。デスクトップアプリの制作から始め、現在はASP.NET Coreを使用したWebアプリケーション開発にも取り組んでいます。
 
-### 🔭 Currently Woriking On
-- Backend API development with FastAPI
+単に機能を実装するだけでなく、**利用者にとって使いやすいアプリケーションを設計・開発すること**を大切にしています。
 
-### 🛠 Projects
-- **DoneTetris**
-    - C# + WPF + SQLite
-    - A gamified application that combines a Done List for recording completed tasks with Tetris
-    [Github Repository](https://github.com/simpleman-041/project-donetetris)
-- **studylog-todo**
-    - C# + WPF + SQLite
-    - A simple To-Do management app.
-    [Github Repository](https://github.com/simpleman-041/project-studylogtodo-v1.0)
+## 技術スタック
 
-### 🚀 Goal
-To become a professional application engineer.
+**言語**
 
-### 📫 Contact
-- GitHub: simpleman-041
+C# / Python / JavaScript / HTML / CSS / SQL
 
-### ☕ Fun Fact
-I go to bed at 8 p.m. and wake up at 4 a.m. — a lifestyle some people say feels like satire of modern society.
+**フレームワーク・ライブラリ**
+
+.NET / ASP.NET Core / WPF / Entity Framework Core / FastAPI
+
+**データベース**
+
+SQLite
+
+**開発環境・ツール**
+
+Visual Studio / VS Code / Git / GitHub / Render
+
+## 主な制作物
+
+### Yondoku — 積読管理Webアプリ
+
+**C# / ASP.NET Core / EF Core / SQLite / JavaScript**
+
+積読している本の中から、次に読む本を簡単に探せるWebアプリケーションです。
+
+- 書籍の登録・編集・削除
+- 読書進捗の記録
+- 興味レベルやジャンルによる絞り込み
+- クイック検索・並び替え
+- RenderによるWeb公開
+
+**[GitHubリポジトリ](https://github.com/simpleman-041/BookPicker) | [公開デモ](https://yondoku.onrender.com)**
+
+### DoneTetris — ゲーミフィケーション型Doneリスト
+
+**C# / WPF / SQLite**
+
+日々の達成事項を記録すると、テトリスのブロックを配置できるデスクトップアプリです。
+
+- 達成事項の記録と管理
+- テトリスによるゲーミフィケーション
+- SQLiteによるデータの永続化
+
+[GitHubリポジトリ](https://github.com/simpleman-041/project-donetetris)
+
+### Bus Factor API — GitHubリポジトリ分析API
+
+**Python / FastAPI / SQLite**
+
+GitHubのコミット情報をもとに、プロジェクトの開発知識が特定の開発者に集中している度合いを近似的に分析するAPIです。
+
+- GitHub APIとの連携
+- コミット情報による貢献度分析
+- SQLiteを利用したキャッシュ
+
+[GitHubリポジトリ](https://github.com/simpleman-041/project-busfactor-api)
+
+## 現在学習していること
+
+- C#と.NETを使用したアプリケーション開発
+- Web APIとデータベースを連携させたシステム構築
+- オブジェクト指向設計と保守しやすいコードの書き方
+- アルゴリズムとデータ構造
+
+## 今後の目標
+
+将来はアプリケーションエンジニアとして、利用者の課題を解決できるソフトウェアを開発したいと考えています。
+
+個人開発を通じて、企画・設計・実装・公開までの経験を積みながら、技術力を高めていきます。
